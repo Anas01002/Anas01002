@@ -1,15 +1,15 @@
 ![logo](https://github.com/Anas01002/Anas01002/blob/main/_Anas%20Ahmed%20Khan%20Bannner.jpg)
 
-<h1 align="center">Hi 👋, I'm Anus Ahmed Khan</h1>
-<h3 align="center">Wordpress Developer at Awesome Marketing Service | .Net Developer</h3>
+<h1 align="center">Hi 👋, I'm Anas Ahmed Khan</h1>
+<h3 align="center">.Net Core Developer | Web API Developer | C# Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas01002&label=Profile%20views&color=0e75b6&style=flat" alt="anas01002" /> </p>
 
-- 🌱 I’m currently learning **Python, IOT**
+- 💻 I’m currently working  **.Net Core Developer**
 
-- 💬 Ask me about **.net, MVC, OOPs, WordPress**
+- 💬 Ask me about **.Net, Core MVC, MVC, OOPs, API**
 
 - 📫 How to reach me **anus01002@gmail.com**
 
