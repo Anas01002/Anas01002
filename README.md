@@ -1,4 +1,5 @@
-![logo](https://github.com/Anas01002/Anas01002/blob/main/Anus%20ahmed%20khan.png)
+![logo](https://github.com/Anas01002/Anas01002/blob/main/_Anas%20Ahmed%20Khan%20Bannner.jpg)
+
 <h1 align="center">Hi 👋, I'm Anus Ahmed Khan</h1>
 <h3 align="center">Wordpress Developer at Awesome Marketing Service | .Net Developer</h3>
 
